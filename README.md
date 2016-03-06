@@ -26,8 +26,7 @@ This image contains php-fpm with php 7 and the following php-extensions:
 
 ## Configure
 This script uses the default php-ini-settings comming with debian jessie from dotdeb.
-If you wish to add custom settings, add your custom "*.ini" file to the **php** folder and (re)build the image (look at the **Install** section).
-See the **custom.ini** file at the **php** folder.
+If you wish to add custom settings, add your custom ".ini" file to the **php** folder and (re)build the image (look at the **Install** section).
 
 ## Install
 First clone this repositoriy and build the image:
